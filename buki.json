@@ -1,0 +1,1282 @@
+[
+    {
+        "systemCode": "01",
+        "weaponCode": "01",
+        "name": "わかばシューター",
+        "sub": "スプラッシュボム",
+        "sp": "グレートバリア",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "02",
+        "name": "スプラシューター",
+        "sub": "キューバンボム",
+        "sp": "ウルトラショット",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "03",
+        "name": "プロモデラーMG",
+        "sub": "タンサンボム",
+        "sp": "サメライド",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "04",
+        "name": "N-ZAP85",
+        "sub": "キューバンボム",
+        "sp": "エナジースタンド",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "05",
+        "name": "もみじシューター",
+        "sub": "トーピード",
+        "sp": "ホップソナー",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "06",
+        "name": "スペースシューター",
+        "sub": "ポイントセンサー",
+        "sp": "メガホンレーザー5.1ch",
+        "strength": 7
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "07",
+        "name": "ボールドマーカー",
+        "sub": "カーリングボム",
+        "sp": "ウルトラハンコ",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "08",
+        "name": "プライムシューター",
+        "sub": "ラインマーカー",
+        "sp": "カニタンク",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "09",
+        "name": "スプラシューターコラボ",
+        "sub": "スプラッシュボム",
+        "sp": "トリプルトルネード",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "10",
+        "name": "N-ZAP89",
+        "sub": "ロボットボム",
+        "sp": "デコイチラシ",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "11",
+        "name": "52ガロン",
+        "sub": "スプラッシュシールド",
+        "sp": "メガホンレーザー5.1ch",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "12",
+        "name": "スペースシューターコラボ",
+        "sub": "トラップ",
+        "sp": "ジェットパック",
+        "strength": 8
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "13",
+        "name": "スプラシューター煌",
+        "sub": "クイックボム",
+        "sp": "テイオウイカ",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "14",
+        "name": "ボールドマーカーネオ",
+        "sub": "ジャンプビーコン",
+        "sp": "メガホンレーザー5.1ch",
+        "strength": 8
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "15",
+        "name": "L3リールガン",
+        "sub": "カーリングボム",
+        "sp": "カニタンク",
+        "strength": 8
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "16",
+        "name": "52ガロンデコ",
+        "sub": "カーリングボム",
+        "sp": "スミナガシート",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "17",
+        "name": "ジェットスイーパー",
+        "sub": "ラインマーカー",
+        "sp": "キューインキ",
+        "strength": 8
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "18",
+        "name": "シャープマーカー",
+        "sub": "クイックボム",
+        "sp": "カニタンク",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "19",
+        "name": "96ガロン",
+        "sub": "スプリンクラー",
+        "sp": "キューインキ",
+        "strength": 8
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "20",
+        "name": "プロモデラーRG",
+        "sub": "スプリンクラー",
+        "sp": "ナイスダマ",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "21",
+        "name": "L3リールガンD",
+        "sub": "クイックボム",
+        "sp": "ウルトラハンコ",
+        "strength": 8
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "22",
+        "name": "プロモデラー彩",
+        "sub": "クイックボム",
+        "sp": "スミナガシート",
+        "strength": 8
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "23",
+        "name": "ボトルガイザー",
+        "sub": "スプラッシュシールド",
+        "sp": "ウルトラショット",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "24",
+        "name": "プライムシューターコラボ",
+        "sub": "キューバンボム",
+        "sp": "ナイスダマ",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "25",
+        "name": "L3リールガン箔",
+        "sub": "スプラッシュボム",
+        "sp": "ジェットパック",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "26",
+        "name": "ジェットスイーパーカスタム",
+        "sub": "ポイズンミスト",
+        "sp": "アメフラシ",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "27",
+        "name": "ジェットスイーパーCOBR",
+        "sub": "クイックボム",
+        "sp": "ウルトラチャクチ",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "28",
+        "name": "シャープマーカーネオ",
+        "sub": "キューバンボム",
+        "sp": "トリプルトルネード",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "29",
+        "name": "シャープマーカーGECK",
+        "sub": "ポイズンミスト",
+        "sp": "アメフラシ",
+        "strength": 7
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "30",
+        "name": "96ガロンデコ",
+        "sub": "スプラッシュシールド",
+        "sp": "テイオウイカ",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "31",
+        "name": "プライムシューターFRZN",
+        "sub": "スプラッシュボム",
+        "sp": "マルチミサイル",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "32",
+        "name": "H3リールガン",
+        "sub": "ポイントセンサー",
+        "sp": "エナジースタンド",
+        "strength": 8
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "33",
+        "name": "96ガロン爪",
+        "sub": "ラインマーカー",
+        "sp": "エナジースタンド",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "34",
+        "name": "ボトルガイザー・フォイル",
+        "sub": "ロボットボム",
+        "sp": "スミナガシート",
+        "strength": 9
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "35",
+        "name": "H3リールガンD",
+        "sub": "スプラスシールド",
+        "sp": "グレートバリア",
+        "strength": 8
+    },
+    {
+        "systemCode": "01",
+        "weaponCode": "36",
+        "name": "H3リールガンSNAK",
+        "sub": "キューバンボム",
+        "sp": "トリプルトルネード",
+        "strength": 9
+    },
+    {
+        "systemCode": "02",
+        "weaponCode": "01",
+        "name": "スプラローラー",
+        "sub": "カーリングボム",
+        "sp": "グレートバリア",
+        "strength": 9
+    },
+    {
+        "systemCode": "02",
+        "weaponCode": "02",
+        "name": "カーボンローラー",
+        "sub": "ロボットボム",
+        "sp": "ショクワンダー",
+        "strength": 8
+    },
+    {
+        "systemCode": "02",
+        "weaponCode": "03",
+        "name": "スプラローラーコラボ",
+        "sub": "ジャンプビーコン",
+        "sp": "テイオウイカ",
+        "strength": 9
+    },
+    {
+        "systemCode": "02",
+        "weaponCode": "04",
+        "name": "ダイナモローラー",
+        "sub": "スプリンクラー",
+        "sp": "エナジースタンド",
+        "strength": 9
+    },
+    {
+        "systemCode": "02",
+        "weaponCode": "05",
+        "name": "ワイドローラー",
+        "sub": "スプラッシュシールド",
+        "sp": "キューインキ",
+        "strength": 8
+    },
+    {
+        "systemCode": "02",
+        "weaponCode": "06",
+        "name": "ダイナモローラーテスラ",
+        "sub": "スプラッシュボム",
+        "sp": "デコイチラシ",
+        "strength": 9
+    },
+    {
+        "systemCode": "02",
+        "weaponCode": "07",
+        "name": "ダイナモローラー冥",
+        "sub": "ポイントセンサー",
+        "sp": "メガホンレーザー5.1ch",
+        "strength": 9
+    },
+    {
+        "systemCode": "02",
+        "weaponCode": "08",
+        "name": "ワイドローラーコラボ",
+        "sub": "ラインマーカー",
+        "sp": "アメフラシ",
+        "strength": 9
+    },
+    {
+        "systemCode": "02",
+        "weaponCode": "09",
+        "name": "ヴァリアブルローラー",
+        "sub": "トラップ",
+        "sp": "マルチミサイル",
+        "strength": 9
+    },
+    {
+        "systemCode": "02",
+        "weaponCode": "10",
+        "name": "ワイドローラー惑",
+        "sub": "トーピード",
+        "sp": "ウルトラチャクチ",
+        "strength": 9
+    },
+    {
+        "systemCode": "02",
+        "weaponCode": "11",
+        "name": "カーボンローラーデコ",
+        "sub": "クイックボム",
+        "sp": "ウルトラショット",
+        "strength": 9
+    },
+    {
+        "systemCode": "02",
+        "weaponCode": "12",
+        "name": "カーボンローラーANGL",
+        "sub": "タンサンボム",
+        "sp": "デコイチラシ",
+        "strength": 8
+    },
+    {
+        "systemCode": "02",
+        "weaponCode": "13",
+        "name": "ヴァリアブルローラーフォイル",
+        "sub": "キューバンボム",
+        "sp": "スミナガシート",
+        "strength": 9
+    },
+    {
+        "systemCode": "03",
+        "weaponCode": "01",
+        "name": "リッター4K",
+        "sub": "トラップ",
+        "sp": "ホップソナー",
+        "strength": 9
+    },
+    {
+        "systemCode": "03",
+        "weaponCode": "02",
+        "name": "リッター4Kカスタム",
+        "sub": "ジャンプビーコン",
+        "sp": "テイオウイカ",
+        "strength": 9
+    },
+    {
+        "systemCode": "03",
+        "weaponCode": "03",
+        "name": "スクイックリンα",
+        "sub": "ポイントセンサー",
+        "sp": "グレートバリア",
+        "strength": 9
+    },
+    {
+        "systemCode": "03",
+        "weaponCode": "04",
+        "name": "4Kスコープ",
+        "sub": "トラップ",
+        "sp": "ホップソナー",
+        "strength": 9
+    },
+    {
+        "systemCode": "03",
+        "weaponCode": "05",
+        "name": "スクイックリンβ",
+        "sub": "ロボットボム",
+        "sp": "ショクワンダー",
+        "strength": 9
+    },
+    {
+        "systemCode": "03",
+        "weaponCode": "06",
+        "name": "スプラスコープコラボ",
+        "sub": "スプラッシュシールド",
+        "sp": "トリプルトルネード",
+        "strength": 9
+    },
+    {
+        "systemCode": "03",
+        "weaponCode": "07",
+        "name": "スプラチャージャーコラボ",
+        "sub": "スプラッシュシールド",
+        "sp": "トリプルトルネード",
+        "strength": 9
+    },
+    {
+        "systemCode": "03",
+        "weaponCode": "08",
+        "name": "4Kスコープカスタム",
+        "sub": "ジャンプビーコン",
+        "sp": "テイオウイカ",
+        "strength": 9
+    },
+    {
+        "systemCode": "03",
+        "weaponCode": "09",
+        "name": "ソイチューバー",
+        "sub": "トーピード",
+        "sp": "マルチミサイル",
+        "strength": 9
+    },
+    {
+        "systemCode": "03",
+        "weaponCode": "10",
+        "name": "スプラチャージャー",
+        "sub": "スプラッシュボム",
+        "sp": "キューインキ",
+        "strength": 9
+    },
+    {
+        "systemCode": "03",
+        "weaponCode": "11",
+        "name": "スプラチャージャーFRST",
+        "sub": "スプリンクラー",
+        "sp": "カニタンク",
+        "strength": 9
+    },
+    {
+        "systemCode": "03",
+        "weaponCode": "12",
+        "name": "スプラスコープ",
+        "sub": "スプラッシュボム",
+        "sp": "キューインキ",
+        "strength": 8
+    },
+    {
+        "systemCode": "03",
+        "weaponCode": "13",
+        "name": "R-PEN/5H",
+        "sub": "スプリンクラー",
+        "sp": "エナジースタンド",
+        "strength": 8
+    },
+    {
+        "systemCode": "03",
+        "weaponCode": "14",
+        "name": "14式竹筒銃・甲",
+        "sub": "ロボットボム",
+        "sp": "メガホンレーザー5.1ch",
+        "strength": 8
+    },
+    {
+        "systemCode": "03",
+        "weaponCode": "15",
+        "name": "スプラスコープFRST",
+        "sub": "スプリンクラー",
+        "sp": "カニタンク",
+        "strength": 8
+    },
+    {
+        "systemCode": "03",
+        "weaponCode": "16",
+        "name": "14式竹筒銃・乙",
+        "sub": "タンサンボム",
+        "sp": "デコイチラシ",
+        "strength": 8
+    },
+    {
+        "systemCode": "03",
+        "weaponCode": "17",
+        "name": "ソイチューバーカスタム",
+        "sub": "タンサンボム",
+        "sp": "ウルトラハンコ",
+        "strength": 8
+    },
+    {
+        "systemCode": "03",
+        "weaponCode": "18",
+        "name": "R-PEN/5B",
+        "sub": "スプラッシュシールド",
+        "sp": "アメフラシ",
+        "strength": 8
+    },
+        {
+        "systemCode": "04",
+        "weaponCode": "01",
+        "name": "バケットスロッシャー",
+        "sub": "スプラッシュボム",
+        "sp": "トリプルトルネード",
+        "strength": 9
+    },
+    {
+        "systemCode": "04",
+        "weaponCode": "02",
+        "name": "ヒッセン",
+        "sub": "ポイズンミスト",
+        "sp": "ジェットパック",
+        "strength": 9
+    },
+    {
+        "systemCode": "04",
+        "weaponCode": "03",
+        "name": "バケットスロッシャーデコ",
+        "sub": "ラインマーカー",
+        "sp": "ショクワンダー",
+        "strength": 9
+    },
+    {
+        "systemCode": "04",
+        "weaponCode": "04",
+        "name": "スクリュースロッシャー",
+        "sub": "タンサンボム",
+        "sp": "ナイスダマ",
+        "strength": 9
+    },
+    {
+        "systemCode": "04",
+        "weaponCode": "05",
+        "name": "モップリン",
+        "sub": "キューバンボム",
+        "sp": "サメライド",
+        "strength": 9
+    },
+    {
+        "systemCode": "04",
+        "weaponCode": "06",
+        "name": "ヒッセン・ヒュー",
+        "sub": "タンサンボム",
+        "sp": "エナジースタンド",
+        "strength": 9
+    },
+    {
+        "systemCode": "04",
+        "weaponCode": "07",
+        "name": "モップリンD",
+        "sub": "ジャンプビーコン",
+        "sp": "ホップソナー",
+        "strength": 8
+    },
+    {
+        "systemCode": "04",
+        "weaponCode": "08",
+        "name": "ヒッセンASH",
+        "sub": "スプラッシュボム",
+        "sp": "スミナガシート",
+        "strength": 8
+    },
+    {
+        "systemCode": "04",
+        "weaponCode": "09",
+        "name": "オーバーフロッシャー",
+        "sub": "スプリンクラー",
+        "sp": "アメフラシ",
+        "strength": 9
+    },
+    {
+        "systemCode": "04",
+        "weaponCode": "10",
+        "name": "モップリン角",
+        "sub": "カーリングボム",
+        "sp": "カニタンク",
+        "strength": 9
+    },
+    {
+        "systemCode": "04",
+        "weaponCode": "11",
+        "name": "スクリュースロッシャーネオ",
+        "sub": "ポイントセンサー",
+        "sp": "ウルトラショット",
+        "strength": 9
+    },
+    {
+        "systemCode": "04",
+        "weaponCode": "12",
+        "name": "オーバーフロッシャーデコ",
+        "sub": "ラインマーカー",
+        "sp": "テイオウイカ",
+        "strength": 9
+    },
+    {
+        "systemCode": "04",
+        "weaponCode": "13",
+        "name": "エクスプロッシャー",
+        "sub": "ポイントセンサー",
+        "sp": "アメフラシ",
+        "strength": 9
+    },
+    {
+        "systemCode": "04",
+        "weaponCode": "14",
+        "name": "エクスプロッシャーカスタム",
+        "sub": "スプラッシュシールド",
+        "sp": "ウルトラチャクチ",
+        "strength": 9
+    },
+        {
+        "systemCode": "05",
+        "weaponCode": "01",
+        "name": "バレルスピナー",
+        "sub": "スプリンクラー",
+        "sp": "ホップソナー",
+        "strength": 9
+    },
+    {
+        "systemCode": "05",
+        "weaponCode": "02",
+        "name": "スプラスピナー",
+        "sub": "クイックボム",
+        "sp": "ウルトラハンコ",
+        "strength": 9
+    },
+    {
+        "systemCode": "05",
+        "weaponCode": "03",
+        "name": "イグザミナー",
+        "sub": "カーリングボム",
+        "sp": "エナジースタンド",
+        "strength": 9
+    },
+    {
+        "systemCode": "05",
+        "weaponCode": "04",
+        "name": "バレルスピナーデコ",
+        "sub": "ポイントセンサー",
+        "sp": "テイオウイカ",
+        "strength": 9
+    },
+    {
+        "systemCode": "05",
+        "weaponCode": "05",
+        "name": "イグザミナー・ヒュー",
+        "sub": "スプラッシュボム",
+        "sp": "カニタンク",
+        "strength": 9
+    },
+    {
+        "systemCode": "05",
+        "weaponCode": "06",
+        "name": "ハイドラント",
+        "sub": "ロボットボム",
+        "sp": "ナイスダマ",
+        "strength": 9
+    },
+    {
+        "systemCode": "05",
+        "weaponCode": "07",
+        "name": "ハイドラントカスタム",
+        "sub": "トラップ",
+        "sp": "スミナガシート",
+        "strength": 9
+    },
+    {
+        "systemCode": "05",
+        "weaponCode": "08",
+        "name": "スプラスピナーコラボ",
+        "sub": "ポイズンミスト",
+        "sp": "グレートバリア",
+        "strength": 9
+    },
+    {
+        "systemCode": "05",
+        "weaponCode": "09",
+        "name": "ハイドラント圧",
+        "sub": "スプリンクラー",
+        "sp": "グレートバリア",
+        "strength": 9
+    },
+    {
+        "systemCode": "05",
+        "weaponCode": "10",
+        "name": "スプラスピナーPYTN",
+        "sub": "ジャンプビーコン",
+        "sp": "ウルトラショット",
+        "strength": 9
+    },
+    {
+        "systemCode": "05",
+        "weaponCode": "11",
+        "name": "ノーチラス79",
+        "sub": "キューバンボム",
+        "sp": "ウルトラチャクチ",
+        "strength": 9
+    },
+    {
+        "systemCode": "05",
+        "weaponCode": "12",
+        "name": "ノーチラス47",
+        "sub": "ポイントセンサー",
+        "sp": "アメフラシ",
+        "strength": 9
+    },
+    {
+        "systemCode": "05",
+        "weaponCode": "13",
+        "name": "クーゲルシュライバー・ヒュー",
+        "sub": "トラップ",
+        "sp": "キューインキ",
+        "strength": 9
+    },
+    {
+        "systemCode": "05",
+        "weaponCode": "14",
+        "name": "クーゲルシュライバー",
+        "sub": "タンサンボム",
+        "sp": "ジェットパック",
+        "strength": 9
+    },
+        {
+        "systemCode": "06",
+        "weaponCode": "01",
+        "name": "スプラマニューバー",
+        "sub": "キューバンボム",
+        "sp": "カニタンク",
+        "strength": 9
+    },
+    {
+        "systemCode": "06",
+        "weaponCode": "02",
+        "name": "デュアルスイーパー",
+        "sub": "スプラッシュボム",
+        "sp": "ホップソナー",
+        "strength": 9
+    },
+    {
+        "systemCode": "06",
+        "weaponCode": "03",
+        "name": "スプラマニューバーコラボ",
+        "sub": "カーリングボム",
+        "sp": "ウルトラチャクチ",
+        "strength": 9
+    },
+    {
+        "systemCode": "06",
+        "weaponCode": "04",
+        "name": "スパッタリー",
+        "sub": "ジャンプビーコン",
+        "sp": "エナジースタンド",
+        "strength": 9
+    },
+    {
+        "systemCode": "06",
+        "weaponCode": "05",
+        "name": "スプラマニューバー耀",
+        "sub": "タンサンボム",
+        "sp": "グレートバリア",
+        "strength": 9
+    },
+    {
+        "systemCode": "06",
+        "weaponCode": "06",
+        "name": "デュアルスイーパーカスタム",
+        "sub": "ジャンプビーコン",
+        "sp": "デコイチラシ",
+        "strength": 9
+    },
+    {
+        "systemCode": "06",
+        "weaponCode": "07",
+        "name": "クアッドホッパーブラック",
+        "sub": "ロボットボム",
+        "sp": "サメライド",
+        "strength": 9
+    },
+    {
+        "systemCode": "06",
+        "weaponCode": "08",
+        "name": "デュアルスイーパー蹄",
+        "sub": "ポイントセンサー",
+        "sp": "スミナガシート",
+        "strength": 8
+    },
+    {
+        "systemCode": "06",
+        "weaponCode": "09",
+        "name": "ケルビン525",
+        "sub": "スプラッシュシールド",
+        "sp": "ナイスダマ",
+        "strength": 9
+    },
+    {
+        "systemCode": "06",
+        "weaponCode": "10",
+        "name": "ガエンFF",
+        "sub": "トラップ",
+        "sp": "メガホンレーザー5.1ch",
+        "strength": 8
+    },
+    {
+        "systemCode": "06",
+        "weaponCode": "11",
+        "name": "クアッドホッパーホワイト",
+        "sub": "スプリンクラー",
+        "sp": "ショクワンダー",
+        "strength": 9
+    },
+    {
+        "systemCode": "06",
+        "weaponCode": "12",
+        "name": "スパッタリー・ヒュー",
+        "sub": "トーピード",
+        "sp": "サメライド",
+        "strength": 9
+    },
+    {
+        "systemCode": "06",
+        "weaponCode": "13",
+        "name": "ケルビン525デコ",
+        "sub": "ポイントセンサー",
+        "sp": "ウルトラショット",
+        "strength": 9
+    },
+    {
+        "systemCode": "06",
+        "weaponCode": "14",
+        "name": "ガエンFFカスタム",
+        "sub": "クイックボム",
+        "sp": "トリプルトルネード",
+        "strength": 9
+    },
+    {
+        "systemCode": "06",
+        "weaponCode": "15",
+        "name": "スパッタリーOWL",
+        "sub": "スプラッシュボム",
+        "sp": "メガホンレーザー5.1ch",
+        "strength": 9
+    },
+        {
+        "systemCode": "07",
+        "weaponCode": "01",
+        "name": "パラシェルター",
+        "sub": "スプリンクラー",
+        "sp": "トリプルトルネード",
+        "strength": 8
+    },
+    {
+        "systemCode": "07",
+        "weaponCode": "02",
+        "name": "24式張替傘・甲",
+        "sub": "ラインマーカー",
+        "sp": "グレートバリア",
+        "strength": 9
+    },
+    {
+        "systemCode": "07",
+        "weaponCode": "03",
+        "name": "キャンピングシェルター",
+        "sub": "ジャンプビーコン",
+        "sp": "キューインキ",
+        "strength": 9
+    },
+    {
+        "systemCode": "07",
+        "weaponCode": "04",
+        "name": "スパイガジェット",
+        "sub": "トラップ",
+        "sp": "サメライド",
+        "strength": 9
+    },
+    {
+        "systemCode": "07",
+        "weaponCode": "05",
+        "name": "パラシェルターソレーラ",
+        "sub": "ロボットボム",
+        "sp": "ジェットパック",
+        "strength": 9
+    },
+    {
+        "systemCode": "07",
+        "weaponCode": "06",
+        "name": "24式張替傘・乙",
+        "sub": "ポイズンミスト",
+        "sp": "ウルトラチャクチ",
+        "strength": 9
+    },
+    {
+        "systemCode": "07",
+        "weaponCode": "07",
+        "name": "キャンピングシェルターソレーラ",
+        "sub": "トラップ",
+        "sp": "ウルトラショット",
+        "strength": 9
+    },
+    {
+        "systemCode": "07",
+        "weaponCode": "08",
+        "name": "スパイガジェットソレーラ",
+        "sub": "トーピード",
+        "sp": "スミナガシート",
+        "strength": 9
+    },
+    {
+        "systemCode": "07",
+        "weaponCode": "09",
+        "name": "キャンピングシェルターCREM",
+        "sub": "ポイズンミスト",
+        "sp": "デコイチラシ",
+        "strength": 8
+    },
+    {
+        "systemCode": "07",
+        "weaponCode": "10",
+        "name": "スパイガジェット繚",
+        "sub": "カーリングボム",
+        "sp": "メガホンレーザー5.1ch",
+        "strength": 8
+    },
+    {
+        "systemCode": "08",
+        "weaponCode": "01",
+        "name": "ホットブラスター",
+        "sub": "ロボットボム",
+        "sp": "グレートバリア",
+        "strength": 9
+    },
+    {
+        "systemCode": "08",
+        "weaponCode": "02",
+        "name": "ラピッドブラスター",
+        "sub": "トラップ",
+        "sp": "トリプルトルネード",
+        "strength": 8
+    },
+    {
+        "systemCode": "08",
+        "weaponCode": "03",
+        "name": "ホットブラスターカスタム",
+        "sub": "ポイントセンサー",
+        "sp": "ウルトラチャクチ",
+        "strength": 9
+    },
+    {
+        "systemCode": "08",
+        "weaponCode": "04",
+        "name": "ホットブラスター艶",
+        "sub": "ジャンプビーコン",
+        "sp": "カニタンク",
+        "strength": 8
+    },
+    {
+        "systemCode": "08",
+        "weaponCode": "05",
+        "name": "ラピッドブラスターデコ",
+        "sub": "トーピード",
+        "sp": "ジェットパック",
+        "strength": 9
+    },
+    {
+        "systemCode": "08",
+        "weaponCode": "06",
+        "name": "ロングブラスター",
+        "sub": "キューバンボム",
+        "sp": "ホップソナー",
+        "strength": 9
+    },
+    {
+        "systemCode": "08",
+        "weaponCode": "07",
+        "name": "ノヴァブラスター",
+        "sub": "スプラッシュボム",
+        "sp": "ショクワンダー",
+        "strength": 9
+    },
+    {
+        "systemCode": "08",
+        "weaponCode": "08",
+        "name": "ロングブラスターカスタム",
+        "sub": "スプラッシュボム",
+        "sp": "テイオウイカ",
+        "strength": 9
+    },
+    {
+        "systemCode": "08",
+        "weaponCode": "09",
+        "name": "S-BLAST92",
+        "sub": "スプリンクラー",
+        "sp": "サメライド",
+        "strength": 9
+    },
+    {
+        "systemCode": "08",
+        "weaponCode": "10",
+        "name": "クラッシュブラスター",
+        "sub": "スプラッシュボム",
+        "sp": "ウルトラショット",
+        "strength": 8
+    },
+    {
+        "systemCode": "08",
+        "weaponCode": "11",
+        "name": "ノヴァブラスターネオ",
+        "sub": "タンサンボム",
+        "sp": "ウルトラハンコ",
+        "strength": 9
+    },
+    {
+        "systemCode": "08",
+        "weaponCode": "12",
+        "name": "クラッシュブラスターネオ",
+        "sub": "カーリングボム",
+        "sp": "デコイチラシ",
+        "strength": 8
+    },
+    {
+        "systemCode": "08",
+        "weaponCode": "13",
+        "name": "Rブラスターエリート",
+        "sub": "ポイズンミスト",
+        "sp": "キューインキ",
+        "strength": 8
+    },
+    {
+        "systemCode": "08",
+        "weaponCode": "14",
+        "name": "S-BLAST91",
+        "sub": "クイックボム",
+        "sp": "ナイスダマ",
+        "strength": 9
+    },
+    {
+        "systemCode": "08",
+        "weaponCode": "15",
+        "name": "Rブラスターエリートデコ",
+        "sub": "ラインマーカー",
+        "sp": "メガホンレーザー5.1ch",
+        "strength": 9
+    },
+    {
+        "systemCode": "08",
+        "weaponCode": "16",
+        "name": "RブラスターエリートWNTR",
+        "sub": "キューバンボム",
+        "sp": "エナジースタンド",
+        "strength": 9
+    },
+        {
+        "systemCode": "09",
+        "weaponCode": "01",
+        "name": "ホクサイ",
+        "sub": "キューバンボム",
+        "sp": "ショクワンダー",
+        "strength": 9
+    },
+    {
+        "systemCode": "09",
+        "weaponCode": "02",
+        "name": "パブロ",
+        "sub": "スプラッシュボム",
+        "sp": "メガホンレーザー5.1ch",
+        "strength": 9
+    },
+    {
+        "systemCode": "09",
+        "weaponCode": "03",
+        "name": "ホクサイ・ヒュー",
+        "sub": "ジャンプビーコン",
+        "sp": "アメフラシ",
+        "strength": 9
+    },
+    {
+        "systemCode": "09",
+        "weaponCode": "04",
+        "name": "ホクサイ彗",
+        "sub": "ロボットボム",
+        "sp": "テイオウイカ",
+        "strength": 9
+    },
+    {
+        "systemCode": "09",
+        "weaponCode": "05",
+        "name": "フィンセント",
+        "sub": "カーリングボム",
+        "sp": "ホップソナー",
+        "strength": 9
+    },
+    {
+        "systemCode": "09",
+        "weaponCode": "06",
+        "name": "パブロ・ヒュー",
+        "sub": "トラップ",
+        "sp": "ウルトラハンコ",
+        "strength": 9
+    },
+    {
+        "systemCode": "09",
+        "weaponCode": "07",
+        "name": "フィンセント・ヒュー",
+        "sub": "ポイントセンサー",
+        "sp": "マルチミサイル",
+        "strength": 9
+    },
+    {
+        "systemCode": "09",
+        "weaponCode": "08",
+        "name": "フィンセントBRNZ",
+        "sub": "スプラッシュシールド",
+        "sp": "ウルトラショット",
+        "strength": 9
+    },
+        {
+        "systemCode": "10",
+        "weaponCode": "01",
+        "name": "トライストリンガー",
+        "sub": "ポイズンミスト",
+        "sp": "メガホンレーザー5.1ch",
+        "strength": 9
+    },
+    {
+        "systemCode": "10",
+        "weaponCode": "02",
+        "name": "LACT450",
+        "sub": "カーリングボム",
+        "sp": "マルチミサイル",
+        "strength": 9
+    },
+    {
+        "systemCode": "10",
+        "weaponCode": "03",
+        "name": "トライストリンガーコラボ",
+        "sub": "スプリンクラー",
+        "sp": "デコイチラシ",
+        "strength": 9
+    },
+    {
+        "systemCode": "10",
+        "weaponCode": "04",
+        "name": "LACT-450デコ",
+        "sub": "スプラッシュシールド",
+        "sp": "サメライド",
+        "strength": 9
+    },
+    {
+        "systemCode": "10",
+        "weaponCode": "05",
+        "name": "トライストリンガー燈",
+        "sub": "ラインマーカー",
+        "sp": "ジェットパック",
+        "strength": 9
+    },
+    {
+        "systemCode": "10",
+        "weaponCode": "06",
+        "name": "LACT-450MILK",
+        "sub": "トーピード",
+        "sp": "ナイスダマ",
+        "strength": 9
+    },
+    {
+        "systemCode": "10",
+        "weaponCode": "07",
+        "name": "フルイドV",
+        "sub": "ロボットボム",
+        "sp": "ウルトラハンコ",
+        "strength": 9
+    },
+    {
+        "systemCode": "10",
+        "weaponCode": "08",
+        "name": "フルイドVカスタム",
+        "sub": "ポイントセンサー",
+        "sp": "ホップソナー",
+        "strength": 9
+    },
+        {
+        "systemCode": "11",
+        "weaponCode": "01",
+        "name": "ドライブワイパー",
+        "sub": "トーピード",
+        "sp": "ウルトラハンコ",
+        "strength": 9
+    },
+    {
+        "systemCode": "11",
+        "weaponCode": "02",
+        "name": "ドライブワイパーデコ",
+        "sub": "ジャンプビーコン",
+        "sp": "マルチミサイル",
+        "strength": 9
+    },
+    {
+        "systemCode": "11",
+        "weaponCode": "03",
+        "name": "ドライブワイパーRUST",
+        "sub": "カーリングボム",
+        "sp": "ウルトラショット",
+        "strength": 9
+    },
+    {
+        "systemCode": "11",
+        "weaponCode": "04",
+        "name": "ジムワイパー",
+        "sub": "クイックボム",
+        "sp": "ショクワンダー",
+        "strength": 9
+    },
+    {
+        "systemCode": "11",
+        "weaponCode": "05",
+        "name": "ジムワイパー・ヒュー",
+        "sub": "ポイズンミスト",
+        "sp": "カニタンク",
+        "strength": 9
+    },
+    {
+        "systemCode": "11",
+        "weaponCode": "06",
+        "name": "デンタルワイパーミント",
+        "sub": "キューバンボム",
+        "sp": "グレートバリア",
+        "strength": 9
+    },
+    {
+        "systemCode": "11",
+        "weaponCode": "07",
+        "name": "ジムワイパー封",
+        "sub": "ロボットボム",
+        "sp": "ナイスダマ",
+        "strength": 9
+    },
+    {
+        "systemCode": "11",
+        "weaponCode": "08",
+        "name": "デンタルワイパースミ",
+        "sub": "スプラッシュシールド",
+        "sp": "ジェットパック",
+        "strength": 9
+    }
+]

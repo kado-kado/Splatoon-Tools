@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Splatoon Private Match Tool</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav id="sidebar">
+            <h2  class="h2">Splatoon Private Match Tool</h2>
+            <ul class="menu-list">
+                <li><a href="#" onclick="showSection('Main')" class="en">Main</a></li>
+                <li><a href="#" onclick="showSection('Settings')" class="en">Settings</a></li>
+                <li><a href="#" onclick="showSection('Credits')" class="en">Credits</a></li>
+            </ul>
+        </nav>
+
+    <main id="main">
+        <section id="Main" class="content-section">
+            <div class="card">
+                <div id="result" class="team-list"></div>
+
+                <button id="nextMatchButton" onclick="nextMatch()" class="zen" disabled>次の試合へ</button>
+                <br>
+                <!-- LINEシェアボタン -->
+                <button id="lineShareButton" onclick="shareToLine()"  class="en" class="zen" disabled>LINEでシェア</button>
+                <button id="shareButton" onclick="copyToClipboard()"  class="en" class="zen" disabled>URLをコピー</button>
+
+            </div>
+        </section>
+        <section id="Settings" class="content-section">
+            <label for="round" class="zen">生成数</label>
+            <br>
+            <input type="number" id="round" value="1" onchange="generateMatch()" class="en">
+            <br>
+            <br>
+            <label for="seed" class="zen">シード値 (初期ランダム)</label>
+            <br>
+            <input type="text" id="seed" placeholder="例: my-seed" onchange="generateMatch()" class="en"/>
+            <br>
+            <br>
+            <label for="numPlayers" class="zen">プレイヤー数 (2〜8)</label>
+            <br>
+            <input type="number" id="numPlayers" min="2" max="8" value="4" onchange="generateMatch()" class="en">
+            <br>
+            <br>
+            <button onclick="generateMatch()" class="zen">マッチを生成</button>
+
+        </section>
+        <section id="Credits" class="content-section">
+            <h3 class="en">Credit</h3>
+            <p class="en">Splatoon Private Match Tool ver.1.0.0</p>
+            <p class="en">Github <a href="https://github.com/kado-kado/Splatoon-Tools" target="_blank">Repository</a></p>
+            <p class="en">Made by <a href="https://github.com/kado-kado" target="_blank">@kado-kado</a></p>
+            <h4 class="en">Special Thanks</h4>
+            <p class="en">Powered by <a href="https://fonts.google.com/specimen/Zen+Maru+Gothic" target="_blank">Google Fontens(Zen Maru Gothic)</a></p>
+            <p class="en">Powered by <a href="http://fizzystack.web.fc2.com/paintball-ja.html" target="_blank">Project Paintball</a></p>
+            <p class="en">Powered by <a href="https://web.archive.org/web/20150906013956/http://aramugi.com/?page_id=807" target="_blank">ikamodoki</a></p>
+            <p class="en">Hosted source on <a href="https://github.com/" target="_blank">GitHub</a></p>
+            <p class="en">Deployed by <a href="https://pages.cloudflare.com/" target="_blank">Cloudflare Pages</a></p>
+        </section>
+    </main>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/seedrandom/3.0.5/seedrandom.min.js"></script>
+    <script src="scripts/change-section.js"></script>
+    <script src="scripts/index.js"></script>
+    <script src="scripts/change-mode.js"></script>
+</body>
+</html>
