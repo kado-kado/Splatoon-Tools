@@ -20,10 +20,26 @@
         </nav>
 
     <main id="main">
+        <section id="About" class="content-section">
+            <div class="card">
+                <p class="zen">このツールは、スプラトゥーンのプラべ用に作られています。</p>
+                <p class="zen">このツールでは、ver.10.0.0で追加された武器もサポートします。</p>
+                <p class="zen">しかし、オルタナやサイドオーダー武器は、含まれませんのでお気を付けください。</p>
+                <br>
+                <p class="zen">まず、Settingsから人数の設定を行ってください。</p>
+                <p class="zen">次は、Mainを選択する。</p>
+                <p class="zen">以上!!</p>
+                <br>
+                <p class="zen">武器をスコア化して、差があまり出ないように配慮しています。</p>
+                <p class="zen">また、共有することで同期することができます。</p>
+                <p class="zen">しかし、次の試合へ、人数設定などは個々でお願いします。</p>
+                <p class="zen">あくまで同じ結果になるようにしているだけですので。</p>
+            </div>
+        </section>
         <section id="Main" class="content-section">
             <div class="card">
                 <div id="result" class="team-list"></div>
-
+                <br>
                 <button id="nextMatchButton" onclick="nextMatch()" class="zen" disabled>次の試合へ</button>
                 <br>
                 <!-- LINEシェアボタン -->
@@ -33,6 +49,9 @@
             </div>
         </section>
         <section id="Settings" class="content-section">
+            <a href="#" onclick="toggleTheme()">Toggle Theme</a>
+            <br>
+            <br>
             <label for="round" class="zen">生成数</label>
             <br>
             <input type="number" id="round" value="1" onchange="generateMatch()" class="en">
@@ -45,7 +64,9 @@
             <br>
             <label for="numPlayers" class="zen">プレイヤー数 (2〜8)</label>
             <br>
+            <button id="decreasePlayers">−</button>
             <input type="number" id="numPlayers" min="2" max="8" value="4" onchange="generateMatch()" class="en">
+            <button id="increasePlayers">+</button>
             <br>
             <br>
             <button onclick="generateMatch()" class="zen">マッチを生成</button>
@@ -53,7 +74,7 @@
         </section>
         <section id="Credits" class="content-section">
             <h3 class="en">Credit</h3>
-            <p class="en">Splatoon Private Match Tool ver.1.0.0</p>
+            <p class="en">Splatoon Private Match Tool ver.1.1.0</p>
             <p class="en">Github <a href="https://github.com/kado-kado/Splatoon-Tools" target="_blank">Repository</a></p>
             <p class="en">Made by <a href="https://github.com/kado-kado" target="_blank">@kado-kado</a></p>
             <h4 class="en">Special Thanks</h4>

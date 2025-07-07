@@ -8,8 +8,15 @@ function getUrlParams() {
     const urlParams = new URLSearchParams(window.location.search);
     const seed = urlParams.get('seed');
     const round = urlParams.get('round');
-    if (seed) currentSeed = seed;
-    if (round) currentRound = parseInt(round);
+    if (seed) {
+        currentSeed = seed;
+        document.getElementById('seed').value = seed; // 追加
+    }
+
+    if (round) {
+        currentRound = parseInt(round);
+        document.getElementById('round').value = currentRound; // 追加
+    }
 }
 
 // 初期化: JSONロード
@@ -116,7 +123,7 @@ function displayTeams(teams, round, seed) {
     const createList = (teamName, list) => `
         <h2>${teamName}</h2>
         <ul>
-            ${list.map(p => `<li>プレイヤー${p.playerId}: ${p.weapon.name}</li>`).join("")}
+            ${list.map(p => `<li>${p.weapon.name} </li>`).join("")}
         </ul>`;
     result.innerHTML += createList("Team A", teams.teamA);
     result.innerHTML += createList("Team B", teams.teamB);
@@ -148,3 +155,21 @@ function nextMatch() {
     roundInput.value = parseInt(roundInput.value) + 1;
     generateMatch(); // ラウンド値が変わったので、再生成
 }
+
+document.getElementById('increasePlayers').addEventListener('click', () => {
+    const input = document.getElementById('numPlayers');
+    let val = parseInt(input.value);
+    if (val < 8) {
+        input.value = val + 1;
+        alert('注意！！\n\n人数確定後に生成するを選択してください。');
+    }
+});
+
+document.getElementById('decreasePlayers').addEventListener('click', () => {
+    const input = document.getElementById('numPlayers');
+    let val = parseInt(input.value);
+    if (val > 2) {
+        input.value = val - 1;
+        alert('注意！！\n\n人数確定後に生成するを選択してください。');
+    }
+});

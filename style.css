@@ -47,7 +47,6 @@
 }
 
 body {
-    font-size: 25px;
     margin: 0;
     padding: 8px;
     height: 100vh;
@@ -199,5 +198,7 @@ a:active {
 }
 
 li {
-    list-style:none
+    list-style:none;
+    margin-left: 5%;
+    text-align: left;
 }

@@ -1,5 +1,5 @@
 window.onload = function(){
-    showSection('Main');
+    showSection('About');
 }
 
 function showSection(sectionId) {
